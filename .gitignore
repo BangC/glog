@@ -2,3 +2,12 @@ autom4te.cache
 glog-*.tar.gz
 packages/rpm-unknown
 packages/debian-*
+Debug
+*.suo
+*.ipch
+.vs
+*.sdf
+*.user
+Backup
+Release
+UpgradeLog.htm
